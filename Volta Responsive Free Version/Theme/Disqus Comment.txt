@@ -1,0 +1,3 @@
+Buka Edit HTML > Cari tulisan YOUR-DISQUS-BLOG kemudian ganti dengan username blog Disqus Anda.
+
+www.idntheme.com
